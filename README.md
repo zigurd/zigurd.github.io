@@ -1,7 +1,7 @@
 # zigurd.com
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
-<td width="50%" style="vertical-align: top; border: none; padding-right: 20px;">
+<td width="30%" style="vertical-align: top; border: none; padding-right: 20px;">
 <h3>More information</h3>
 <ul>
 <li><a href="https://drive.google.com/file/d/11jvM5x9jeYG41OpVxvvCbgMLOC1ir1S5/view?usp=sharing">Resume (CV)</a></li>
@@ -34,3 +34,7 @@
 <a href="https://www.tiktok.com/@zigurdmednieks" style="text-decoration: none; margin-right: 15px;">
 <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" width="35" height="35" alt="TikTok" style="vertical-align: middle;"/>
 </a>
+</td>
+<td width="20%" style="vertical-align: top; border: none; padding-right: 20px;">
+<img src="headshot.jpeg" alt="Zigurd Mednieks" width="300" >
+</td>  
