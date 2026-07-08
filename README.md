@@ -40,7 +40,9 @@
 </td>  
 </table>
 
+
 ---
+
 
 # Profile
 Product Architect & Mobile Developer | Pioneer in Agentic Android AI and AppFunctions (MCP) | Author of Programming Android and Enterprise Android
