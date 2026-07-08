@@ -39,11 +39,11 @@
 <img src="headshot.jpeg" alt="Zigurd Mednieks" width="300" >
 </td>  
 
-</td>
-</tr>
+
 </table>
 
-<br />
+</div>
+>/div>
 
 ---
 
