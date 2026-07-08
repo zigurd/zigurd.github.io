@@ -35,17 +35,15 @@
 <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" width="35" height="35" alt="TikTok" style="vertical-align: middle;"/>
 </a>
 </td>
-<td width="20%" style="vertical-align: top; border: none; padding-right: 20px;">
-<img src="headshot.jpeg" alt="Zigurd Mednieks" width="300" >
-</td>  
+<td style="vertical-align: top;">
+  <img src="headshot.jpeg" alt="Zigurd Mednieks" width="300">
+</td>
 </tr>
 
 
 </table>
 
-
 ***
-
 
 # Profile
 Product Architect & Mobile Developer | Pioneer in Agentic Android AI and AppFunctions (MCP) | Author of Programming Android and Enterprise Android
