@@ -36,5 +36,5 @@
 </td>
 <td style="vertical-align: top;">
   <img src="headshot.jpeg" alt="Zigurd Mednieks" width="300">
-</td>
+
 
