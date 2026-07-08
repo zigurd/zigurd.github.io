@@ -38,14 +38,13 @@
 <td width="20%" style="vertical-align: top; border: none; padding-right: 20px;">
 <img src="headshot.jpeg" alt="Zigurd Mednieks" width="300" >
 </td>  
+</tr>
 
 
 </table>
 
-</div>
->/div>
 
----
+***
 
 
 # Profile
