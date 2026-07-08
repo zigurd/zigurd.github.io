@@ -41,31 +41,3 @@
 
 
 </table>
-
-<hr>
-
-<h1>Profile</h1>
-<p>Product Architect &amp; Mobile Developer | Pioneer in Agentic Android AI and AppFunctions (MCP) | Author of Programming Android and Enterprise Android</p>
-
-<h2>About</h2>
-<p>I enable clients to transform requirements and complex technologies into innovative, user-friendly products. With a strong foundation in mobile technology, I specialize in building solutions that push the boundaries of on-device intelligence and awareness of the user’s context and environment.</p>
-
-<p>Currently, my focus is at the intersection of agentic AI and connected care. I am actively developing a cross-platform mobile and wearable safety platform designed for multi-generational families and care environments. The system utilizes local, neural-network-based fall detection alongside advanced cross-functional agent orchestration, positioning an AI agent to coordinate safety workflows.</p>
-
-<p>As an early adopter of Google's native on-device MCP implementation (AppFunctions), I design and build API schemas that enable system agents, such as Gemini, to dynamically discover, orchestrate, and execute complex tool calls.</p>
-
-<p>I have implemented endpoint-based AI using the Gemma multiplatform inference framework and multiple models. This enables AI features without potentially high variable costs.</p>
-
-<p>I am also the author of several books on Android software development, including Enterprise Android, Programming Android, and Android Application Development. These books have been authoritative guides for intermediate and advanced developers.</p>
-
-<p>As a developer and communicator, I enjoy sharing insights that help people prepare for an increasingly agentic mobile ecosystem.</p>
-
-<h2>Core Expertise</h2>
-<p><strong>Agentic AI &amp; On-Device MCP:</strong> Designing and implementing Android AppFunctions, optimizing via KDocs for headless LLM tool-calling and orchestration.</p>
-
-<p><strong>Advanced Mobile Architecture:</strong> Android (Kotlin/Java) and cross platform (Flutter/Dart) application development, and Wear OS sensor integration.</p>
-
-<p><strong>Connected Health &amp; Safety Tech:</strong> Developing intelligent safety systems featuring non-wearable, camera-based neural network safety monitoring and multi-device coordination.</p>
-
-<p><strong>Technical Leadership &amp; Authorship:</strong> Translating highly complex enterprise and OS-level architectures into clear, actionable plans for developer teams.</p>
-
