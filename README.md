@@ -1,4 +1,4 @@
-\<table width="100%" style="border-collapse: collapse; border: none;">
+<table width="100%" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 <td width="30%" style="vertical-align: top; border: none; padding-right: 20px;">
 <h3>More information</h3>
