@@ -4,7 +4,7 @@
 <h3>More information</h3>
 <ul>
   <li><a href="https://github.com/zigurd">Github profile</a></li>
-<li><a href="https://drive.google.com/file/d/11jvM5x9jeYG41OpVxvvCbgMLOC1ir1S5/view?usp=sharing">Resume (CV)</a></li>
+<li><a href="[https://drive.google.com/file/d/11jvM5x9jeYG41OpVxvvCbgMLOC1ir1S5/view?usp=sharing](https://drive.google.com/file/d/1R9HTEbc59AJg8XZpI9ad8LXjvfCXWTum/view?usp=sharing)">Resume (CV)</a></li>
 <li><a href="http://www.amazon.com/Zigurd-Mednieks/e/B001KE4L4G">Amazon author profile</a></li>
 <li><a href="http://www.oreillynet.com/pub/au/3685">O'Reilly author profile</a></li>
 <li><a href="https://scholar.google.com/citations?user=SpbKfigAAAAJ&hl=en&oi=ao">Citations by publication</a></li>
